@@ -1,0 +1,28 @@
+name: Bryan Siders
+favicon: null
+layout_spectrum: 0.32556558679789305
+typography_spectrum: 0.05465557426214218
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
+  brandStrength: 0.5589975016191602
+  lightness: 0.4482435605023056
+  saturation: 0.8853572106454521
+  rhythmicContrast: 0.042556453263387084
+purpose: []
